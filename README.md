@@ -48,7 +48,7 @@ Database (optional)	Firestore / PostgreSQL
 
 ✅ Installation (Local Setup)
 # Clone the repo
-git clone https://github.com/yourusername/civiclens.git
+git clone https://github.com/Rylin31/CivicLens-AI
 cd civiclens
 
 # Install dependencies
